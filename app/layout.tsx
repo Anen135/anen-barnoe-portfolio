@@ -17,7 +17,6 @@ export const metadata: Metadata = {
   description:
     "Fullstack-разработчик с 4+ годами коммерческого опыта. React, Next.js, Node.js, NestJS, PostgreSQL и облачная инфраструктура.",
   other: {
-    "codex-preview": "development",
   },
   icons: {
     icon: "/favicon.svg",

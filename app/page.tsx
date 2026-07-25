@@ -106,7 +106,7 @@ export default function Home() {
           <div className="grid-label">GRID 12</div>
           <div className="art-cross">+</div>
           <div className="art-square" />
-          <div className="art-note">// build<br />scalable<br />web products</div>
+          <div className="art-note">{/* build */}<br />scalable<br />web products</div>
           <div className="art-arc" />
           <div className="art-frame"><small>ARCHITECTURE</small><br />········<br /><small>PERFORMANCE</small></div>
           <div className="art-base" />
@@ -208,7 +208,7 @@ export default function Home() {
 
       <section className="principles shell">
         <p>Также в работе</p>
-        <div>SOLID</div><div>Clean Architecture</div><div>DDD</div><div>AI / LLM API</div><div>Open Source</div><div>Agile / Scrum</div>
+        <div>SOLID</div><div>Clean Architecture</div><div>DDD</div><div>Open Source</div><div>Agile / Scrum</div>
       </section>
 
       <footer id="contacts">
