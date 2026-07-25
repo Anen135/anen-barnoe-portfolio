@@ -80,7 +80,7 @@ export default function Home() {
   return (
     <main>
       <header className="site-header shell">
-        <a className="brand" href="#top" aria-label="На главную">SB / DEV</a>
+        <a className="brand" href="#top" aria-label="На главную">Anen135 / DEV</a>
         <nav aria-label="Основная навигация">
           <a href="#about">Обо мне</a>
           <a href="#experience">Опыт</a>
@@ -93,7 +93,7 @@ export default function Home() {
       <section className="hero shell" id="top">
         <div className="hero-copy">
           <p className="eyebrow">FULLSTACK · WEB · 2026</p>
-          <h1><span>Султан</span><span>Батырханов</span></h1>
+          <h1><span>Anen</span><span>Barnoe</span></h1>
           <h2>Middle Fullstack Web Developer</h2>
           <p className="hero-lead">4+ года создаю быстрые и масштабируемые веб-продукты — от интерфейса до инфраструктуры.</p>
           <p className="location">Краснодар <b>·</b> Remote <b>·</b> Relocation</p>
@@ -225,7 +225,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="shell footer-bottom"><span>© 2026 Султан Батырханов</span><a href="#top">Наверх ↑</a></div>
+        <div className="shell footer-bottom"><span>© 2026 Anen Barnoe</span><a href="#top">Наверх ↑</a></div>
       </footer>
     </main>
   );
